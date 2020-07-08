@@ -1,0 +1,14 @@
+#navbar {
+width: 100%;
+position: fixed;
+top: 0;
+}
+.intro {
+height: 100vh;
+}
+@media (max-height: 800px) {
+img {
+width: 100px;
+}
+}
+
